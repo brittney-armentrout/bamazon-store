@@ -1,9 +1,9 @@
 # bamazon-store
 ***
 
-## Bamazon is a CLI App which mocks an Amazon-like storefront. The app allows customers to place orders that deplete inventory. The app allows managers to view low inventory and replenish inventory as needed. Managers can also add new products to the storefront. 
-**this app uses MySQL and Node.js**
-**view package.json for dependencies**
+### Bamazon is a CLI App which mocks an Amazon-like storefront. The app allows customers to place orders that deplete inventory. The app allows managers to view low inventory and replenish inventory as needed. Managers can also add new products to the storefront. 
+1.**this app uses MySQL and Node.js**
+1.**view package.json for dependencies**
 
 ### Customer Access
 ***

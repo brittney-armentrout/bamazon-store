@@ -155,7 +155,7 @@ function addInventory() {
                     console.log("New inventory has been added for " + product.product_name + ".");
 
                     console.log("Stock Quantity has increased by " + stockquan + ".");
-                    console.log(("Current Product Inventory: " + product.product_name + " ~ " + product.stock + " units").green);
+                    console.log(("Current Product Inventory: " + product.product_name + " ~ " + (parseInt(product.stock) + parseInt(stockquan))  + " units").green);
                     console.log("------------------------------------------------------------------------");
                     goBack();
                 }
